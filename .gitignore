@@ -1,0 +1,47 @@
+# Node modules
+node_modules/
+
+# Expo
+.expo/
+.expo-shared/
+dist/
+web-build/
+
+# Native
+*.orig.*
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+*.keystore
+
+# Metro
+.metro-health-check*
+
+# Debug
+npm-debug.*
+yarn-debug.*
+yarn-error.*
+*.log
+
+# OS
+.DS_Store
+*.swp
+*.swo
+*~
+
+# IDE
+.vscode/
+.idea/
+*.iml
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# Build
+android/app/build/
+ios/Pods/
+ios/build/
